@@ -46,18 +46,18 @@ Identify top 3 city based on highest sales, return city name, total sale, total 
 
 City 1: Pune
 
-Average rent per customer is very low.
-Highest total revenue.
+Average rent per customer is very low.<br>
+Highest total revenue.<br>
 Average sales per customer is also high.
 
 City 2: Delhi
 
-Highest estimated coffee consumers at 7.7 million.
-Highest total number of customers, which is 68.
+Highest estimated coffee consumers at 7.7 million.<br>
+Highest total number of customers, which is 68.<br>
 Average rent per customer is 330 (still under 500).
 
 City 3: Jaipur
 
-Highest number of customers, which is 69.
-Average rent per customer is very low at 156.
+Highest number of customers, which is 69.<br>
+Average rent per customer is very low at 156.<br>
 Average sales per customer is better at 11.6k.
