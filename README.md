@@ -6,20 +6,15 @@ The goal of this project is to analyze the sales data of Coffee shop, a company 
 By analyzing key performance indicators (KPIs) like customer lifetime value, order frequency, and city-wise revenue growth, this project bridges the gap between raw transactional data and strategic business expansion.
 
 ##  Key Business Questions Addressed
-The analysis provides data-driven answers to 10 critical business questions, including:
+
 Coffee Consumers Count
+How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
 Total Revenue from Coffee Sales
 What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 
-Monthly Sales Growth
-Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
-
 Sales Count for Each Product
 How many units of each coffee product have been sold?
-
-Market Potential Analysis
-Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
 
 Average Sales Amount per City
 What is the average sales amount per customer in each city?
@@ -36,7 +31,11 @@ How many unique customers are there in each city who have purchased coffee produ
 Average Sale vs Rent
 Find each city and their average sale per customer and avg rent per customer
 
+Monthly Sales Growth
+Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
+Market Potential Analysis
+Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
 
 ## 🛠️ Tech Stack 
 * **Database:** PostgreSQL
