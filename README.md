@@ -37,11 +37,10 @@ Average Sale vs Rent
 Find each city and their average sale per customer and avg rent per customer
 
 
----
 
-## 🛠️ Tech Stack & Database Schema
+## 🛠️ Tech Stack 
 * **Database:** PostgreSQL
-* **Tool:** pgAdmin 4 / Terminal
+* **Tool:** pgAdmin 4
 * **Concepts Used:** Advanced Joins, Window Functions, Common Table Expressions (CTEs), Aggregations, Data Filtering & Type Casting.
 
 
